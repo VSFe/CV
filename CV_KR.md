@@ -1,7 +1,5 @@
 ---
-title: CV_KR
-layout: template
-filename: CV_KR.md
+permalink: /kr
 ---
 
 # 김병철 포트폴리오
