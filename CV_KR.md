@@ -1,3 +1,9 @@
+---
+title: CV_KR
+layout: template
+filename: CV_KR.md
+---
+
 # 김병철 포트폴리오
 
 ## **Contact**
