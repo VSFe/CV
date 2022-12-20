@@ -1,4 +1,4 @@
 # CV
 
-**[KR](https://github.com/VSFe/CV/blob/main/CV_KR.md)**
-**[EN]()**
+**[KR](https://cv.vsfe.me/kr)**
+**[EN](https://cv.vsfe.me/en)**
